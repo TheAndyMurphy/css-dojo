@@ -1,0 +1,57 @@
+[
+  {
+    "id": "1",
+    "location": "Swords, Dublin",
+    "imgSrc": "src/assets/office-1.jpg",
+    "price": "€1200/Month",
+    "sold": false
+  },
+  {
+    "id": "2",
+    "location": "Santry, Dublin",
+    "imgSrc": "src/assets/office-2.jpg",
+    "price": "€800/Month",
+    "sold": false
+  },
+  {
+    "id": "3",
+    "location": "Dundrum, Dublin",
+    "imgSrc": "src/assets/office-3.jpg",
+    "price": "€1600/Month",
+    "sold": true
+  },
+  {
+    "id": "4",
+    "location": "Sandymount, Dublin",
+    "imgSrc": "src/assets/office-4.jpg",
+    "sold": true,
+    "price": "€2000/Month"
+  },
+  {
+    "id": "5",
+    "location": "Grand Canal Dock, Dublin",
+    "sold": false,
+    "price": "€1700/Month"
+  },
+  {
+    "id": "6",
+    "location": "Killarney, Kerry",
+    "imgSrc": "src/assets/office-5.jpg",
+    "sold": false,
+    "price": "€1100/Month"
+  },
+  {
+    "id": "7",
+    "location": "City Centre, Wexford",
+    "imgSrc": "src/assets/office-6.jpg",
+    "sold": false,
+    "price": "€950/Month"
+  },
+  {
+    "id": "8",
+    "location": "Raheny, Dublin",
+    "imgSrc": "src/assets/office-7.jpg",
+    "sold": false,
+    "price": "€1250/Month"
+  }
+]
